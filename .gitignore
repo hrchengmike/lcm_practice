@@ -1,0 +1,4 @@
+lcm_simple
+*.o
+l2g_t.c
+l2g_t.h
