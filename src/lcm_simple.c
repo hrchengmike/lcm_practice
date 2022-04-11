@@ -1,5 +1,5 @@
 #include <lcm/lcm.h>
-#include "l2g_t.h"
+#include "../lcmtypes/l2g_t.h"
 #include <stdio.h>
 
 void on_l2g(const lcm_recv_buf_t *rbuf, const char *channel,
